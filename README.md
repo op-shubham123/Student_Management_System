@@ -1,4 +1,4 @@
-# College Database Management System
+# Student Management System
 
 A beginner-friendly DBMS project implemented using MySQL and SQL scripts.
 
